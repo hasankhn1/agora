@@ -7,8 +7,12 @@ This app is build on node.js express framework for using cors and react.js as fr
 
 # How to run project locally
 
-1. cd project_folder
+1. `cd project_folder`
 
-2. npm install
+# Install dependencies by running the below command
 
-3. npm start
+2. `npm install`
+
+# Running project locally
+
+3. `npm start`
