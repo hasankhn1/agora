@@ -3,7 +3,7 @@
 This app is build on node.js express framework for using cors and react.js as front end
 
 # How to clone 
-`git clone `
+`git clone git@github.com:hasankhn1/agora.git`
 
 # How to run project locally
 
