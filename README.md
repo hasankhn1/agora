@@ -1,4 +1,4 @@
-# agora
+# Agora video calling application
 
 This app is build on node.js express framework for using cors and react.js as front end
 
@@ -7,12 +7,12 @@ This app is build on node.js express framework for using cors and react.js as fr
 
 # How to run project locally
 
-1. `cd project_folder`
+`cd project_folder`
 
 # Install dependencies by running the below command
 
-2. `npm install`
+`npm install`
 
 # Running project locally
 
-3. `npm start`
+`npm start`
